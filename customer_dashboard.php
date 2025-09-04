@@ -34,7 +34,7 @@ $artworks = $conn->query("SELECT a.id, a.title, a.description, a.price, a.image_
     body {
         margin: 0;
         font-family: 'Arial', sans-serif;
-        background-image: url('background.jpg'); /* Put your background image in the same folder */
+        background-image: url('07.jpg'); /* Put your background image in the same folder */
         background-size: cover;
         background-position: center;
         background-attachment: fixed;

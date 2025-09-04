@@ -39,7 +39,7 @@ $artworks = $conn->query("SELECT * FROM artworks WHERE artist_id=".$_SESSION['us
         body {
             margin: 0;
             padding: 0;
-            background: url('background.jpg') no-repeat center center fixed;
+            background: url('07.jpg') no-repeat center center fixed;
             background-size: cover;
             font-family: Arial, sans-serif;
             color: #fff;
